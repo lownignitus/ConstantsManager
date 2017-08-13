@@ -1,0 +1,9 @@
+## Interface: 70200
+## Title: |cff00ff00Constants Manager|r
+## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
+## Version: |cffFF4500v1|r
+## X-Date: 30/03/2017
+## X-Website: https://www.facebook.com/groups/190240457669378/
+## Notes: Addon to auto set constantly re adjusted settings
+
+AConstantsManager.lua
