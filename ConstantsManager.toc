@@ -1,8 +1,8 @@
-## Interface: 70200
+## Interface: 70300
 ## Title: |cff00ff00Constants Manager|r
 ## Author: |cffDA70D6LownIgnitus|r Mihkael@US-Alexstrasza
-## Version: |cffFF4500v1|r
-## X-Date: 30/03/2017
+## Version: |cffFF4500v0.0.1|r
+## X-Date: 30/08/2017
 ## X-Website: https://www.facebook.com/groups/190240457669378/
 ## Notes: Addon to auto set constantly re adjusted settings
 
