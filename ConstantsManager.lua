@@ -1,5 +1,6 @@
-if autoLootDefault ~= 1 then
-	autoLootDefault = 1
+local isSet = GetAutoLootDefault()
+if isSet == true then
+	SetAutoLootDefault = false
 end
 
 local isEnabled = BNGetMatureLanguageFilter()
@@ -7,6 +8,7 @@ if isEnabled == false then
 	BNSetMatureLanguageFilter(true)
 end
 
-if mouseInvertYaw ~= 1 then
-	mouseInvertYaw = 1
+
+if mouseInvertPitch ~= 1 then
+	mouseInvertPitch = 1
 end
