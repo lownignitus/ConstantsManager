@@ -1,6 +1,6 @@
 local isSet = GetAutoLootDefault()
-if isSet == true then
-	SetAutoLootDefault = false
+if isSet == false then
+	SetAutoLootDefault = true
 end
 
 local isEnabled = BNGetMatureLanguageFilter()
