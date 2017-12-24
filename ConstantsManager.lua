@@ -1,4 +1,8 @@
 local isSet = GetAutoLootDefault()
+if isSet == nul or isSet == nil or isSet ~= true then
+	isSet = false
+end
+
 if isSet == false then
 	SetAutoLootDefault = true
 end
